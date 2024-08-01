@@ -1,6 +1,6 @@
 # Diablo
 
-<h1 align="center"> Languages-Frameworks-Tools</h1>
+<h2 align="center"> Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
 <a href="https:skillcons.dev">
